@@ -1,27 +1,42 @@
-### Hi there 👋
-Welcome to my coding haven where pixels turn into magic!
+# Hello, I'm Thebin🌞 
+> Welcome to my coding haven where pixels turn into magic!
+>
 
-- 🔭 **Currently working on:** My graduation project titled "*Study on Few-shot Enhancement for Pneumonia Image Classification and Lightweight Research*". It's expected to be completed around May, after which I'll update the **MedGAN-ResLite** project.
 
-- 🌱 **I’m currently learning:** 
-    - C++
-    - Generative Adversarial Networks (GANs)
-    - Medical Image Processing
 
-- 🤔 **I’m looking for help with:**
-    - Tricks for Improving DCGAN networks
-    - Introducing residual connections in DCGAN networks effectively
-    - How to Balancing the generator and discriminator when training
 
-- 💬 **Ask me about:**
-    - Image classification
-    - Image generation
-    - OpenVINO model deployment
-    - Model pruning
+</div>
 
-- 📫 **How to reach me:** 
-    - If you're my classmate, you can find me directly at the dormitory~~
-    - If you're my junior, we might meet on campus. 
-    - If we haven't met before, you can reach me on my [Zhihu] or [CSDN] profiles.
+## 😎About Me
+
+Master's student, Biomedical engineering.
+
+- 🔭 **Currently working on:** 
+  - Cognitive impairment recognition
+  - Affective computing
+
+- 🌱 **I’m currently learning:**
+  - Video processing and analysis.
+  - Multimodal fusion
+
+- ✨ **Character:** INFJ, love life, love to explore.
+
+## 📓GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaitreChen&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+
+## 📈 Contribution Timeline
+![](https://github-readme-activity-graph.vercel.app/graph?username=MaitreChen&theme=dracula)
+
+## 🌐 Social Media
+
+* WeChat：Miaobabe3Mai
+* 知乎：[阿斌有话说](https://www.zhihu.com/people/a-bin-10-6)
+* CSDN：[Maitre Chen](https://blog.csdn.net/m0_57055443?spm=1010.2135.3001.5343)
+* Email：hongbinchen@stu.njmu.edu.cn
+
+
 
 Feel free to join me in this electrifying escapade as we decode the universe's secrets, one line of code at a time! 💻✨
