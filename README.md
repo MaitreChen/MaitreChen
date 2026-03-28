@@ -1,24 +1,25 @@
-# Hello, I'm Hongbin, you can call me Hobby (if you want)🌞 
+# Hello, I'm Hongbin (Hobby) 🌞
 
 
 
 </div>
 
-## 😎About Me
+## About Me
 
-Ph.D. candidate, Clinical Engineering.
+Ph.D. candidate in Clinical Engineering at Nanjing Medical University
 
-- 🔭 **Currently working on:** 
-  - Affective computing
-  - Multimodal learning
-- 🌱 **I’m currently learning:**
-  - Cross-subject emotion recognition
-  - Disentangled representation learning
-  - Efficient representation learning
-- ✨ **Character:** INFJ, love life, love cooking, love to explore.
+- 🔭 **Research interests:**  
+  - Affective computing  
+  - Multimodal learning  
 
-👉 Full CV, publications, and updates:  
-[Homepage](https://maitrechen.github.io/)
+- 🌱 **Currently exploring:**  
+  - Cross-subject emotion recognition  
+  - Disentangled representation learning  
+  - Efficient representation learning  
+
+- ✨ **Character:** INFJ · Enjoy cooking, photography, and walking.
+
+👉 Full CV, publications, and updates:  [Homepage](https://maitrechen.github.io/)
 
 
 
@@ -33,7 +34,6 @@ Ph.D. candidate, Clinical Engineering.
 
 ## 🌐 Social Media
 
-* WeChat：Miaobabe3Mai
 * 知乎：[阿斌有话说](https://www.zhihu.com/people/a-bin-10-6)
 * CSDN：[Maitre Chen](https://blog.csdn.net/m0_57055443?spm=1010.2135.3001.5343)
 * Email：hongbinchen@stu.njmu.edu.cn (If you want to contact me~)
